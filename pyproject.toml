@@ -1,0 +1,19 @@
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "BrunnoDC", email = "brunnodc05@gmail.com"},
+]
+dependencies = [
+    "djangorestframework>=3.14.0",
+    "django>=4.1.7",
+    "django-cors-headers>=3.14.0",
+    "djangorestframework-simplejwt>=5.2.2",
+    "setuptools>=67.6.0",
+]
+requires-python = ">=3.10"
+license = {text = "MIT"}
+
+
+[tool.pdm]
